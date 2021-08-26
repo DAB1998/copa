@@ -9,7 +9,7 @@
         <meta name="author" content="Creative Tim">
         <title>TORNEO CHAVOS-RUCOS</title>
         <!-- Favicon -->
-        <link rel="icon" href="{{ asset('favicon.ico') }}" type="image/png">
+        <link rel="icon" href="../../assets/img/LOGO.png" type="image/png">
         <!-- Fonts -->
         <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700">
         <!-- Icons -->
