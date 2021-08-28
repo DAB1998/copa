@@ -27,7 +27,6 @@
     <body>
         <!-- Main content -->
         <div class="main-content" id="panel">
-            
             <!-- Carts -->
             <div class="header pb-8 bg-default" style="background:#34944e">
             <div class="container-fluid">
@@ -683,19 +682,52 @@
                     </div>
                 </div>
             </div>
+                <div class="row">
+                    <div class="col-xl-12">
+                        <h1 class="display-3 text-default" style="text-align:center">ESTADÍSTICAS</h1>
+                    </div>
+                </div>
+                <div class="nav-wrapper">
+                <ul class="nav nav-pills nav-fill flex-column flex-md-row" id="tabs-icons-text" role="tablist">
+                    <li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tab-general" role="tab" aria-controls="tabs-icons-text-1" aria-selected="false">Tabla general</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tab-gols" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">Goleadores</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#ofensiva" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Ofensiva</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#defensiva" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Defensiva</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#expulsiones" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Sancionados</a>
+                    </li>
+                </ul>
+                </div>
 
-            <div class="row">
-            <div class="col-xl-12">
-                <h1 class="display-3 text-default" style="text-align:center">TABLA DE POSICIONES</h1>
-            </div>
-                <div class="table-responsive">
-                            <div>
+                <div class="card shadow" style="background:#b8c2ff">
+                <div class="card-body">
+                    <div class="tab-content" style="background:#b8c2ff" id="myTabContent">
+                        
+                        <div class="tab-pane fade" id="tab-general" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="row">
+                                <div class="col-xl-12">
+                                    <h1 class="display-3 text-default" style="text-align:center">TABLA DE POSICIONES</h1>
+                                </div>
+                            </div>
+                            <div class="table-responsive">
+                                <div>
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
-                                            <th scope="col" class="sort" data-sort="name">Posición</th>
-                                            <th scope="col" class="sort" data-sort="budget">Equipo</th>
-                                            <th scope="col" class="sort" data-sort="status">Puntos</th>
+                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Equipo</th>
+                                            <th scope="col" >Puntos</th>
+                                            <th scope="col" >GF</th>
+                                            <th scope="col" >GC</th>
+                                            <th scope="col" >DG</th>
                                         </tr>
                                     </thead>
                                     <tbody class="list">
@@ -716,6 +748,15 @@
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                          </tr>
                                          <tr>
                                             <td class="budget">
@@ -733,6 +774,15 @@
                                             </th>
                                             <td>
                                                 <span class="status">0 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -752,6 +802,15 @@
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                          </tr>
                                          <tr>
                                             <td class="budget">
@@ -769,6 +828,15 @@
                                             </th>
                                             <td>
                                                 <span class="status">0 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -788,6 +856,15 @@
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                          </tr>
                                          <tr>
                                             <td class="budget">
@@ -805,6 +882,15 @@
                                             </th>
                                             <td>
                                                 <span class="status">0 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -824,12 +910,320 @@
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                          </tr>
                                 </table>
-                            </div>  
-            <!-- Footer -->
+                                </div>
+                            </div>
+                        </div>  
+                        
+                        
+                        <div class="tab-pane fade" id="tab-gols" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                        <div class="row">
+                                <div class="col-xl-12">
+                                    <h1 class="display-3 text-default" style="text-align:center">TABLA DE GOLEADORES</h1>
+                                </div>
+                            </div>
+                            <div class="table-responsive">
+                                <div>
+                                <table class="table align-items-center" style="background:#bae3c5">
+                                    <thead class="bg-default text-white">
+                                        <tr>
+                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Jugador</th>
+                                            <th scope="col" >Equipo</th>
+                                            <th scope="col" >Goles</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="list">
+                                        <tr>
+                                            <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Jugador 1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Jugador 1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Jugador 1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Jugador 1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                </table>
+                                </div>
+                            </div>
+                        </div> 
+
+
+                        <div class="tab-pane fade" id="ofensiva" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                        <div class="row">
+                                <div class="col-xl-12">
+                                    <h1 class="display-3 text-default" style="text-align:center">MEJOR OFENSIVA</h1>
+                                </div>
+                            </div>
+                            <div class="table-responsive">
+                                <div>
+                                <table class="table align-items-center" style="background:#bae3c5">
+                                    <thead class="bg-default text-white">
+                                        <tr>
+                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Equipo</th>
+                                            <th scope="col" >Goles anotados</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="list">
+                                        <tr>
+                                            <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                </table>
+                                </div>
+                            </div>
+                        </div> 
+
+                        <div class="tab-pane fade" id="expulsiones" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                        <div class="row">
+                                <div class="col-xl-12">
+                                    <h1 class="display-3 text-default" style="text-align:center">EXPULSADOS</h1>
+                                </div>
+                            </div>
+                            <div class="table-responsive">
+                                <div>
+                                <table class="table align-items-center" style="background:#bae3c5">
+                                    <thead class="bg-default text-white">
+                                        <tr>
+                                            <th scope="col" >Jugador</th>
+                                            <th scope="col" >Equipo</th>
+                                            <th scope="col" >Partidos de suspensión</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="list">
+                                        <tr>
+                                            <td>
+                                                <span class="status">Alain Infante</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Atlético Fénix</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">24</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td>
+                                                <span class="status">Jugador</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Partidos</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td>
+                                                <span class="status">Jugador</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Partidos</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td>
+                                                <span class="status">Jugador</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Partidos</span>
+                                            </td>
+                                         </tr>
+                                </table>
+                                </div>
+                            </div>
+                        </div> 
+
+
+                        <div class="tab-pane fade" id="defensiva" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                        <div class="row">
+                                <div class="col-xl-12">
+                                    <h1 class="display-3 text-default" style="text-align:center">MEJOR DEFENSIVA</h1>
+                                </div>
+                            </div>
+                            <div class="table-responsive">
+                                <div>
+                                <table class="table align-items-center" style="background:#bae3c5">
+                                    <thead class="bg-default text-white">
+                                        <tr>
+                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Equipo</th>
+                                            <th scope="col" >Goles recibidos</th>
+                                        </tr>
+                                    </thead>
+                                    <tbody class="list">
+                                        <tr>
+                                            <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                1
+                                            </td>
+                                            <td>
+                                                <span class="status">Equipo</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Goles</span>
+                                            </td>
+                                         </tr>
+                                </table>
+                                </div>
+                            </div>
+                        </div> 
+                    </div>
+                </div>
             </div>
-        </div>
+            <div class="row">
+                <div class="col-xl-12">
+                    <h1 class="display-3 text-default" style="text-align:center">GALERÍA</h1>
+                </div>
+            </div>
+            <div class="card shadow" style="background:#b8c2ff">
+                <div class="card-body">
+                    <div class="tab-content" style="background:#b8c2ff" id="myTabContent">
+                            
+                    </div>
+                </div> 
+            </div>
+<!-- Carousel wrapper -->
+
+
+            </div>    
+            
         <!-- Argon Scripts -->
         <!-- Core -->
         <script src="{{ asset('assets/vendor/jquery/dist/jquery.min.js') }}"></script>
