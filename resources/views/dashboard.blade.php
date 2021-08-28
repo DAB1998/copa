@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-        <meta name="description" content="Start your development with a Dashboard for Bootstrap 4.">
+        <meta name="description" content="Página web de la copa chavos-rucos country 2021">
         <meta name="author" content="Creative Tim">
         <title>TORNEO CHAVOS-RUCOS</title>
         <!-- Favicon -->
@@ -86,15 +86,15 @@
                             <div class="tab-pane fade show active" id="tabs-icons-text-1" role="tabpanel" aria-labelledby="tabs-icons-text-1-tab">
                             <div class="row">
                             <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 28 de agosto 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <h4 class="card-title text-uppercase text-white mb-0">Amigos Country - 2</h3>
+                                                    <h4 class="card-title text-uppercase text-white mb-0">VS </h3>
+                                                    <h4 class="card-title text-uppercase text-white mb-0">Atlético Fénix - 0</h3>
+                                                    <span class="h6 font-weight-bold text-white mb-0">FINALIZADO</span>
+                                                    <p><a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1piW45UgXZg5RPpG3l7DavY3IuDCg0nUn?usp=sharing" target="_blank">Visita la galería</a></p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -106,16 +106,16 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger"  style="background:#bae3c5">
                                         <!-- Card body -->
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Vodka JRS</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 28 de agosto 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">11:00 am</span>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Tenisticos FC - 6</h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">VS </h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Vodka JRS - 3</h4>
+                                                    <span class="h5 text-white font-weight-bold mb-0">Finalizado</span>
+                                                    <p><a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1KPuZPE0rgl80iwEI139w17CkTFAZRYSn?usp=sharing" target="_blank">Visita la galería</a></p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -724,6 +724,7 @@
                                         <tr>
                                             <th scope="col" >Posición</th>
                                             <th scope="col" >Equipo</th>
+                                            <th scope="col" >Partidos jugados</th>
                                             <th scope="col" >Puntos</th>
                                             <th scope="col" >GF</th>
                                             <th scope="col" >GC</th>
@@ -738,54 +739,60 @@
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/índice.jpg">
+                                                        <img alt="Image placeholder" src="../../assets/img/tenis.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Vodka Juniors</span>
+                                                        <span class="name mb-0 text-sm">Tenisticos FC</span>
                                                     </div>
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">0 pts</span>
+                                                <span class="status">1</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">3 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">6</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">3</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">+3</span>
                                             </td>
                                          </tr>
-                                         <tr>
+                                        <tr>
                                             <td class="budget">
                                                 2
                                             </td>
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/fenix.jpg">
+                                                        <img alt="Image placeholder" src="../../assets/img/amigos.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Atlético Fénix</span>
+                                                        <span class="name mb-0 text-sm">Amigos Country</span>
                                                     </div>
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">0 pts</span>
+                                                <span class="status">1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">3 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">2</span>
                                             </td>
                                             <td>
                                                 <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">+2</span>
                                             </td>
-                                            <td>
-                                                <span class="status">0</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
+                                        </tr>
+                                        <tr>
                                             <td class="budget">
                                                 3
                                             </td>
@@ -799,6 +806,9 @@
                                                     </div>
                                                 </div>
                                             </th>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
@@ -819,13 +829,16 @@
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/tenis.jpg">
+                                                        <img alt="Image placeholder" src="../../assets/img/sel.png">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Tenisticos FC</span>
+                                                        <span class="name mb-0 text-sm">Selección de Guadalupe</span>
                                                     </div>
                                                 </div>
                                             </th>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
@@ -846,33 +859,6 @@
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/sel.png">
-                                                    </a>
-                                                    <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Selección de Guadalupe</span>
-                                                    </div>
-                                                </div>
-                                            </th>
-                                            <td>
-                                                <span class="status">0 pts</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">0</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">0</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">0</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                            <td class="budget">
-                                                6
-                                            </td>
-                                            <th scope="row">
-                                                <div class="media align-items-center">
-                                                    <a href="#" class="avatar rounded-circle mr-3">
                                                         <img alt="Image placeholder" src="../../assets/img/natacion.jpg">
                                                     </a>
                                                     <div class="media-body">
@@ -881,6 +867,9 @@
                                                 </div>
                                             </th>
                                             <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                            <td>
                                                 <span class="status">0 pts</span>
                                             </td>
                                             <td>
@@ -893,20 +882,23 @@
                                                 <span class="status">0</span>
                                             </td>
                                          </tr>
-                                         <tr>
+                                        <tr>
                                             <td class="budget">
-                                                7
+                                                6
                                             </td>
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/amigos.jpg">
+                                                        <img alt="Image placeholder" src="../../assets/img/fenix.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Amigos Country</span>
+                                                        <span class="name mb-0 text-sm">Atlético Fénix</span>
                                                     </div>
                                                 </div>
                                             </th>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
@@ -914,10 +906,40 @@
                                                 <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">2</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">-2</span>
+                                            </td>
+                                         </tr>
+                                        <tr>
+                                            <td class="budget">
+                                                7
+                                            </td>
+                                            <th scope="row">
+                                                <div class="media align-items-center">
+                                                    <a href="#" class="avatar rounded-circle mr-3">
+                                                        <img alt="Image placeholder" src="../../assets/img/índice.jpg">
+                                                    </a>
+                                                    <div class="media-body">
+                                                        <span class="name mb-0 text-sm">Vodka Juniors</span>
+                                                    </div>
+                                                </div>
+                                            </th>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">3</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">6</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">-3</span>
                                             </td>
                                          </tr>
                                 </table>
@@ -944,18 +966,18 @@
                                         </tr>
                                     </thead>
                                     <tbody class="list">
-                                        <tr>
-                                            <td class="budget">
+                                         <tr>
+                                         <td class="budget">
                                                 1
                                             </td>
                                             <td>
-                                                <span class="status">Jugador 1</span>
+                                                <span class="status">Juan Heredia</span>
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">TENISTICOS FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -963,13 +985,13 @@
                                                 1
                                             </td>
                                             <td>
-                                                <span class="status">Jugador 1</span>
+                                                <span class="status">Francisco Garibay</span>
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">TENISTICOS FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -977,27 +999,55 @@
                                                 1
                                             </td>
                                             <td>
-                                                <span class="status">Jugador 1</span>
+                                                <span class="status">Arturo Herreros</span>
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">VODKA JRS.</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                1
+                                                2
                                             </td>
                                             <td>
-                                                <span class="status">Jugador 1</span>
+                                                <span class="status">Alexis Herreros</span>
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">VODKA JRS.</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">Ricardo Palmerin</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">TENISTICOS FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">Gerardo Color</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">TENISTICOS FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
                                             </td>
                                          </tr>
                                 </table>
@@ -1028,43 +1078,76 @@
                                                 1
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">TENISTICOS FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">6</span>
                                             </td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                1
+                                            <td class="budget">
+                                                2
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">VODKA JRS.</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">3</span>
                                             </td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                1
+                                            <td class="budget">
+                                                3
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">AMIGOS COUNTRY</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                1
+                                            <td class="budget">
+                                                4
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">NATACIÓN FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">0</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td class="budget">
+                                                5
+                                            </td>
+                                            <td>
+                                                <span class="status">ING. PRADO FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td class="budget">
+                                                6
+                                            </td>
+                                            <td>
+                                                <span class="status">SELECCIÓN GUADALUPE</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td class="budget">
+                                                7
+                                            </td>
+                                            <td>
+                                                <span class="status">ATLÉTICO FÉNIX</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                 </table>
@@ -1091,46 +1174,13 @@
                                     <tbody class="list">
                                         <tr>
                                             <td>
-                                                <span class="status">Alain Infante</span>
+                                                <span class="status">Rodolfo Isai Aguilar</span>
                                             </td>
                                             <td>
                                                 <span class="status">Atlético Fénix</span>
                                             </td>
                                             <td>
-                                                <span class="status">24</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                            <td>
-                                                <span class="status">Jugador</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Equipo</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Partidos</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                            <td>
-                                                <span class="status">Jugador</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Equipo</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Partidos</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                            <td>
-                                                <span class="status">Jugador</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Equipo</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Partidos</span>
+                                                <span class="status">Sin suspensión para próximo encuentro por doble amarilla</span>
                                             </td>
                                          </tr>
                                 </table>
@@ -1161,43 +1211,76 @@
                                                 1
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">AMIGOS COUNTRY</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                1
+                                                2
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">SELECCIÓN GUADALUPE</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                1
+                                                3
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">ING. PRADO FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                1
+                                                4
                                             </td>
                                             <td>
-                                                <span class="status">Equipo</span>
+                                                <span class="status">NATACIÓN FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">Goles</span>
+                                                <span class="status">0</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                5
+                                            </td>
+                                            <td>
+                                                <span class="status">ATLÉTICO FÉNIX</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">2</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                6
+                                            </td>
+                                            <td>
+                                                <span class="status">TENISTICOS FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">3</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                7
+                                            </td>
+                                            <td>
+                                                <span class="status">VODKA JRS.</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">6</span>
                                             </td>
                                          </tr>
                                 </table>
