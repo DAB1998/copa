@@ -2179,7 +2179,9 @@ pre code
 
 .table
 {
-    width: 100%;
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
     margin-bottom: 1rem;
 
     color: #525f7f;
@@ -2608,7 +2610,7 @@ pre code
         display: block;
         overflow-x: auto;
 
-        width: 100%;
+        width: 20%;
 
         -webkit-overflow-scrolling: touch;
     }

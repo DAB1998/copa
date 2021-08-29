@@ -93,11 +93,15 @@
                                                     <h4 class="card-title text-uppercase text-white mb-0">Amigos Country - 2</h3>
                                                     <h4 class="card-title text-uppercase text-white mb-0">VS </h3>
                                                     <h4 class="card-title text-uppercase text-white mb-0">Atlético Fénix - 0</h3>
-                                                    <span class="h6 font-weight-bold text-white mb-0">FINALIZADO</span>
-                                                    <p><a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1piW45UgXZg5RPpG3l7DavY3IuDCg0nUn?usp=sharing" target="_blank">Visita la galería</a></p>
+                                                    <span class="h6 font-weight-bold text-yellow text-justify mb-0">Resultado en investigación:</span>
+                                                    <span class="h6 font-weight-bold text-yellow text-justify mb-0">Fecha de nacimiento registrada de un jugador de Atlético Fénix</span>
+                                                    <button class="btn btn-icon btn-primary" type="button">
+                                                        <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
+                                                        <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1piW45UgXZg5RPpG3l7DavY3IuDCg0nUn?usp=sharing" target="_blank">Ver galería</a>
+                                                    </button>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="ni ni-trophy"></i>
                                                 </div>
                                                 </div>
@@ -114,11 +118,14 @@
                                                     <h4 class="card-title text-white text-uppercase mb-0">Tenisticos FC - 6</h4>
                                                     <h4 class="card-title text-white text-uppercase mb-0">VS </h4>
                                                     <h4 class="card-title text-white text-uppercase mb-0">Vodka JRS - 3</h4>
-                                                    <span class="h5 text-white font-weight-bold mb-0">Finalizado</span>
-                                                    <p><a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1KPuZPE0rgl80iwEI139w17CkTFAZRYSn?usp=sharing" target="_blank">Visita la galería</a></p>
+                                                    <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
+                                                    <button class="btn btn-icon btn-primary" type="button">
+                                                        <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
+                                                        <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1KPuZPE0rgl80iwEI139w17CkTFAZRYSn?usp=sharing" target="_blank">Ver galería</a>
+                                                    </button>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="ni ni-trophy"></i>
                                                 </div>
                                                 </div>
@@ -722,13 +729,13 @@
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
-                                            <th scope="col" >Posición</th>
-                                            <th scope="col" >Equipo</th>
-                                            <th scope="col" >Partidos jugados</th>
-                                            <th scope="col" >Puntos</th>
-                                            <th scope="col" >GF</th>
-                                            <th scope="col" >GC</th>
-                                            <th scope="col" >DG</th>
+                                            <th scope="col" style="width:2px">Pos</th>
+                                            <th scope="col">Equipo</th>
+                                            <th scope="col" style="width:2px">PJ</th>
+                                            <th scope="col" style="width:2px">PTS</th>
+                                            <th scope="col" style="width:2px">GF</th>
+                                            <th scope="col" style="width:2px">GC</th>
+                                            <th scope="col" style="width:2px">DG</th>
                                         </tr>
                                     </thead>
                                     <tbody class="list">
@@ -832,7 +839,7 @@
                                                         <img alt="Image placeholder" src="../../assets/img/sel.png">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Selección de Guadalupe</span>
+                                                        <span class="name mb-0 text-sm">Sel. Guadalupe</span>
                                                     </div>
                                                 </div>
                                             </th>
@@ -959,10 +966,10 @@
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
-                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Pos</th>
                                             <th scope="col" >Jugador</th>
                                             <th scope="col" >Equipo</th>
-                                            <th scope="col" >Goles</th>
+                                            <th scope="col" >G</th>
                                         </tr>
                                     </thead>
                                     <tbody class="list">
@@ -1067,9 +1074,9 @@
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
-                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Pos</th>
                                             <th scope="col" >Equipo</th>
-                                            <th scope="col" >Goles anotados</th>
+                                            <th scope="col" >GF</th>
                                         </tr>
                                     </thead>
                                     <tbody class="list">
@@ -1158,7 +1165,7 @@
                         <div class="tab-pane fade" id="expulsiones" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                         <div class="row">
                                 <div class="col-xl-12">
-                                    <h1 class="display-3 text-default" style="text-align:center">EXPULSADOS</h1>
+                                    <h1 class="display-3 text-default" style="text-align:center">SANCIONADOS</h1>
                                 </div>
                             </div>
                             <div class="table-responsive">
@@ -1168,7 +1175,7 @@
                                         <tr>
                                             <th scope="col" >Jugador</th>
                                             <th scope="col" >Equipo</th>
-                                            <th scope="col" >Partidos de suspensión</th>
+                                            <th scope="col" >Fechas</th>
                                         </tr>
                                     </thead>
                                     <tbody class="list">
@@ -1200,9 +1207,9 @@
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
-                                            <th scope="col" >Posición</th>
+                                            <th scope="col" >Pos</th>
                                             <th scope="col" >Equipo</th>
-                                            <th scope="col" >Goles recibidos</th>
+                                            <th scope="col" >GC</th>
                                         </tr>
                                     </thead>
                                     <tbody class="list">
@@ -1289,18 +1296,6 @@
                         </div> 
                     </div>
                 </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-12">
-                    <h1 class="display-3 text-default" style="text-align:center">GALERÍA</h1>
-                </div>
-            </div>
-            <div class="card shadow" style="background:#b8c2ff">
-                <div class="card-body">
-                    <div class="tab-content" style="background:#b8c2ff" id="myTabContent">
-                            
-                    </div>
-                </div> 
             </div>
 <!-- Carousel wrapper -->
 
