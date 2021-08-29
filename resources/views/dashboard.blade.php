@@ -58,10 +58,10 @@
                 <div class="nav-wrapper">
                 <ul class="nav nav-pills nav-fill flex-column flex-md-row" id="tabs-icons-text" role="tablist">
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tabs-icons-text-1" role="tab" aria-controls="tabs-icons-text-1" aria-selected="true">Jornada 1</a>
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tabs-icons-text-1" role="tab" aria-controls="tabs-icons-text-1" aria-selected="true">Jornada 1</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tabs-icons-text-2" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">Jornada 2</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tabs-icons-text-2" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">Jornada 2</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-3" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 3</a>
@@ -83,7 +83,7 @@
                 <div class="card shadow" style="background:#b8c2ff">
                 <div class="card-body">
                         <div class="tab-content" style="background:#b8c2ff" id="myTabContent">
-                            <div class="tab-pane fade show active" id="tabs-icons-text-1" role="tabpanel" aria-labelledby="tabs-icons-text-1-tab">
+                            <div class="tab-pane fade show" id="tabs-icons-text-1" role="tabpanel" aria-labelledby="tabs-icons-text-1-tab">
                             <div class="row">
                             <div class="col-xl-3">
                                     <div class="card card-stats bg-danger">
@@ -134,19 +134,22 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                         <!-- Card body -->
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 29 de agosto 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Sel. Guadalupe - 2</h3>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">VS </h3>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Ing. Prado FC - 3</h3>
+                                                    <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
+                                                    <button class="btn btn-icon btn-primary" type="button">
+                                                        <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
+                                                        <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/file/d/1xAaJTF3-bF6p1ANPlsq0UfjKZJ9On0o6/view?usp=sharing" target="_blank">Ver galería</a>
+                                                    </button>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="ni ni-trophy"></i>
                                                 </div>
                                                 </div>
@@ -175,7 +178,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="tabs-icons-text-2" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="tab-pane fade show active" id="tabs-icons-text-2" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats"  style="background:#bae3c5">
@@ -697,7 +700,7 @@
                 <div class="nav-wrapper">
                 <ul class="nav nav-pills nav-fill flex-column flex-md-row" id="tabs-icons-text" role="tablist">
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tab-general" role="tab" aria-controls="tabs-icons-text-1" aria-selected="false">Tabla general</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-1-tab" data-toggle="tab" href="#tab-general" role="tab" aria-controls="tabs-icons-text-1" aria-selected="false">Tabla general</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tab-gols" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">Goleadores</a>
@@ -718,7 +721,7 @@
                 <div class="card-body">
                     <div class="tab-content" style="background:#b8c2ff" id="myTabContent">
                         
-                        <div class="tab-pane fade" id="tab-general" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                        <div class="tab-pane fade show active" id="tab-general" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                             <div class="row">
                                 <div class="col-xl-12">
                                     <h1 class="display-3 text-default" style="text-align:center">TABLA DE POSICIONES</h1>
@@ -814,19 +817,19 @@
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">1</span>
                                             </td>
                                             <td>
-                                                <span class="status">0 pts</span>
+                                                <span class="status">3 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">3</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">2</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">+1</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -836,10 +839,10 @@
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/sel.png">
+                                                        <img alt="Image placeholder" src="../../assets/img/natacion.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Sel. Guadalupe</span>
+                                                        <span class="name mb-0 text-sm">Natación FC</span>
                                                     </div>
                                                 </div>
                                             </th>
@@ -866,27 +869,27 @@
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/natacion.jpg">
+                                                        <img alt="Image placeholder" src="../../assets/img/sel.png">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Natación FC</span>
+                                                        <span class="name mb-0 text-sm">Sel. Guadalupe</span>
                                                     </div>
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">1</span>
                                             </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">2</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">3</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">-1</span>
                                             </td>
                                          </tr>
                                         <tr>
@@ -1057,6 +1060,76 @@
                                                 <span class="status">1</span>
                                             </td>
                                          </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">Daniel Aguilar</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">ING. PRADO FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">Valentín Cervantes</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">ING. PRADO FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">José Rodríguez</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">ING. PRADO FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">Oscar Tovar</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">SEL. GUADALUPE</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                2
+                                            </td>
+                                            <td>
+                                                <span class="status">Gregorio Ruiz</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">SEL. GUADALUPE</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
                                 </table>
                                 </div>
                             </div>
@@ -1074,7 +1147,7 @@
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
-                                            <th scope="col" >Pos</th>
+                                            <th scope="col" >Po</th>
                                             <th scope="col" >Equipo</th>
                                             <th scope="col" >GF</th>
                                         </tr>
@@ -1107,6 +1180,17 @@
                                                 3
                                             </td>
                                             <td>
+                                                <span class="status">ING. PRADO FC</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">3</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td class="budget">
+                                                4
+                                            </td>
+                                            <td>
                                                 <span class="status">AMIGOS COUNTRY</span>
                                             </td>
                                             <td>
@@ -1115,24 +1199,13 @@
                                          </tr>
                                          <tr>
                                             <td class="budget">
-                                                4
-                                            </td>
-                                            <td>
-                                                <span class="status">NATACIÓN FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">0</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                            <td class="budget">
                                                 5
                                             </td>
                                             <td>
-                                                <span class="status">ING. PRADO FC</span>
+                                                <span class="status">SEL. GUADALUPE</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -1140,7 +1213,7 @@
                                                 6
                                             </td>
                                             <td>
-                                                <span class="status">SELECCIÓN GUADALUPE</span>
+                                                <span class="status">NATACIÓN FC</span>
                                             </td>
                                             <td>
                                                 <span class="status">0</span>
@@ -1173,6 +1246,7 @@
                                 <table class="table align-items-center" style="background:#bae3c5">
                                     <thead class="bg-default text-white">
                                         <tr>
+                                            <th scope="col" >Jornada</th>
                                             <th scope="col" >Jugador</th>
                                             <th scope="col" >Equipo</th>
                                             <th scope="col" >Fechas</th>
@@ -1181,13 +1255,30 @@
                                     <tbody class="list">
                                         <tr>
                                             <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                            <td>
                                                 <span class="status">Rodolfo Isai Aguilar</span>
                                             </td>
                                             <td>
                                                 <span class="status">Atlético Fénix</span>
                                             </td>
                                             <td>
-                                                <span class="status">Sin suspensión para próximo encuentro por doble amarilla</span>
+                                                <span class="status">Sin suspensión para jornada 2 por doble amarilla</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Jorge Humberto Fernández</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">Sel.Guadalupe</span>
+                                            </td>
+                                            <td>
+                                                <span class="status"></span>
                                             </td>
                                          </tr>
                                 </table>
@@ -1229,7 +1320,7 @@
                                                 2
                                             </td>
                                             <td>
-                                                <span class="status">SELECCIÓN GUADALUPE</span>
+                                                <span class="status">NATACIÓN FC</span>
                                             </td>
                                             <td>
                                                 <span class="status">0</span>
@@ -1243,18 +1334,18 @@
                                                 <span class="status">ING. PRADO FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">2</span>
                                             </td>
-                                         </tr>
-                                         <tr>
+                                        </tr>
+                                        <tr>
                                          <td class="budget">
                                                 4
                                             </td>
                                             <td>
-                                                <span class="status">NATACIÓN FC</span>
+                                                <span class="status">ATLÉTICO FÉNIX</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -1262,10 +1353,10 @@
                                                 5
                                             </td>
                                             <td>
-                                                <span class="status">ATLÉTICO FÉNIX</span>
+                                                <span class="status">SEL. GUADALUPE</span>
                                             </td>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">3</span>
                                             </td>
                                          </tr>
                                          <tr>
