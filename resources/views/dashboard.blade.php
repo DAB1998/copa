@@ -145,7 +145,7 @@
                                                     <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
                                                     <button class="btn btn-icon btn-primary" type="button">
                                                         <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
-                                                        <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/file/d/1xAaJTF3-bF6p1ANPlsq0UfjKZJ9On0o6/view?usp=sharing" target="_blank">Ver galería</a>
+                                                        <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1kB9JjfJqVMWF4vp5F7P14Vgs09Aa34tD?usp=sharing" target="_blank">Ver galería</a>
                                                     </button>
                                                 </div>
                                                 <div class="col-auto">
