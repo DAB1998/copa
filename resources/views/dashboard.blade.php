@@ -15,6 +15,7 @@
         <!-- Icons -->
         <link rel="stylesheet" href="{{ asset('assets/vendor/nucleo/css/nucleo.css') }}" type="text/css">
         <link rel="stylesheet" href="{{ asset('assets/vendor/@fortawesome/fontawesome-free/css/all.min.css') }}" type="text/css">
+        <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
         <!-- Page plugins -->
         <!-- Argon CSS -->
         <link rel="stylesheet" href="{{ asset('assets/css/argon.css?v=1.2.0') }}" type="text/css">
@@ -39,6 +40,7 @@
                             <h1 class="display-3 text-white" style="text-align:center">COPA CHAVOS-RUCOS</h1>
                             <h2 class="text-white" style="text-align:center"> COUNTRY CLUB LAS HUERTAS </h2>
                             <h2 class="text-white" style="text-align:center"> XXXIX ANIVERSARIO</h2>
+                          <!--  <img src="https://www.tenvinilo.com/vinilos-decorativos/img/preview/vinilo-infantil-pelota-futbol-color-1399.png" width="100" height="100" id="pelota" style="margin-left:auto; margin-right:auto"> -->
                         </div>
                         <div class="col-xl-3" style="text-align:center">
                             <img src="../../assets/img/LOGO.png" style="height:100px; margin-top:5%">
@@ -47,8 +49,25 @@
                 </div>
             </div>
             </div>
-        
-            <!-- Page content -->
+            <!-- Page content 
+            <style>
+                #pelota {
+                position: absolute;
+                animation: rebota 1.5s alternate infinite ease-out;
+                }
+
+                @-webkit-keyframes rebota {
+                0% {
+                    bottom: -120px;
+                    height: 100px;
+                    align: center;
+                }
+                100% {
+                    bottom: 100px;
+                    align: center;
+                }
+                }
+            </style> -->
             <div class="container-fluid mt--6" style="background:#b8c2ff" >
             <div class="header-body">
                         <div class="col-xl-12"  >
@@ -90,11 +109,11 @@
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-                                                    <h4 class="card-title text-uppercase text-white mb-0">Amigos Country - 2</h3>
+                                                    <h4 class="card-title text-uppercase text-white mb-0">Amigos Country - 1</h3>
                                                     <h4 class="card-title text-uppercase text-white mb-0">VS </h3>
                                                     <h4 class="card-title text-uppercase text-white mb-0">Atlético Fénix - 0</h3>
-                                                    <span class="h6 font-weight-bold text-yellow text-justify mb-0">Resultado en investigación:</span>
-                                                    <span class="h6 font-weight-bold text-yellow text-justify mb-0">Fecha de nacimiento registrada de un jugador de Atlético Fénix</span>
+                                                    <span class="h6 font-weight-bold text-yellow text-justify mb-0">Finalizado:</span>
+                                                    <span class="h6 font-weight-bold text-yellow text-justify mb-0">Pierde Atlético Fénix por infracción al reglamento</span>
                                                     <button class="btn btn-icon btn-primary" type="button">
                                                         <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
                                                         <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1piW45UgXZg5RPpG3l7DavY3IuDCg0nUn?usp=sharing" target="_blank">Ver galería</a>
@@ -188,8 +207,9 @@
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 4 de septiembre 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 5 de septiembre 2021</span>
+                                                    <p class="h5 font-weight-bold mb-0">1:00 pm</p>
+                                                    <span class="h6 font-weight-bold text-danger mb-0">Cambia de fecha por común acuerdo de 5/09/2021 al 6/09/2021</span>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -209,7 +229,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 5 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 5 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -230,7 +250,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 5 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 5 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">11:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -273,7 +293,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 18 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 18 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -294,7 +314,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 19 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 19 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -315,7 +335,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 19 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 19 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">11:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -358,7 +378,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 25 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 25 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -379,7 +399,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sábado 25 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 25 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">11:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -400,7 +420,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 26 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 26 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -443,8 +463,8 @@
                                                     <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 2 de octubre 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 2 de octubre 2021</span>
+                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -464,7 +484,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 3 de octubre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 3 de octubre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -485,7 +505,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 3 de octubre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 3 de octubre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">11:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -528,8 +548,8 @@
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 9 de octubre 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 9 de octubre 2021</span>
+                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -549,8 +569,8 @@
                                                     <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 9 de octubre 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 9 de octubre 2021</span>
+                                                    <p class="h5 font-weight-bold mb-0">11:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -570,8 +590,8 @@
                                                     <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 10 de octubre 2021</span>
-                                                    <span class="h5 font-weight-bold mb-0">9:00 am</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 10 de octubre 2021</span>
+                                                    <span class="h5 font-weight-bold mb-0">11:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -614,7 +634,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 11 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 11 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -635,7 +655,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Sabado 11 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Sábado 11 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">11:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -656,7 +676,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <span class="h5 font-weight-bold mb-0">Domingo 12 de septiembre 2021</span>
+                                                    <span class="h6 font-weight-bold mb-0">Domingo 12 de septiembre 2021</span>
                                                     <span class="h5 font-weight-bold mb-0">9:00 am</span>
                                                 </div>
                                                 <div class="col-auto">
@@ -793,13 +813,13 @@
                                                 <span class="status">3 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">1</span>
                                             </td>
                                             <td>
                                                 <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">+2</span>
+                                                <span class="status">+1</span>
                                             </td>
                                         </tr>
                                         <tr>
@@ -1191,7 +1211,7 @@
                                                 4
                                             </td>
                                             <td>
-                                                <span class="status">AMIGOS COUNTRY</span>
+                                                <span class="status">SEL. GUADALUPE</span>
                                             </td>
                                             <td>
                                                 <span class="status">2</span>
@@ -1202,10 +1222,10 @@
                                                 5
                                             </td>
                                             <td>
-                                                <span class="status">SEL. GUADALUPE</span>
+                                                <span class="status">AMIGOS COUNTRY</span>
                                             </td>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">1</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -1331,23 +1351,23 @@
                                                 3
                                             </td>
                                             <td>
+                                                <span class="status">ATLÉTICO FÉNIX</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">1</span>
+                                            </td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">
+                                                4
+                                            </td>
+                                            <td>
                                                 <span class="status">ING. PRADO FC</span>
                                             </td>
                                             <td>
                                                 <span class="status">2</span>
                                             </td>
                                         </tr>
-                                        <tr>
-                                         <td class="budget">
-                                                4
-                                            </td>
-                                            <td>
-                                                <span class="status">ATLÉTICO FÉNIX</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
-                                         </tr>
                                          <tr>
                                          <td class="budget">
                                                 5
