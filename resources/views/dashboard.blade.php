@@ -39,7 +39,7 @@
                         justify-content: center;
                         align-items: center;
                         z-index: 9999;
-                        transition: 6s all;
+                        transition: 4s all;
                         opacity: 0;
                     }
                     .loading.show {
