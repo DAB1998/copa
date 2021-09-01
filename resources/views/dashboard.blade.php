@@ -16,6 +16,7 @@
         <link rel="stylesheet" href="{{ asset('assets/vendor/nucleo/css/nucleo.css') }}" type="text/css">
         <link rel="stylesheet" href="{{ asset('assets/vendor/@fortawesome/fontawesome-free/css/all.min.css') }}" type="text/css">
         <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
         <!-- Page plugins -->
         <!-- Argon CSS -->
         <link rel="stylesheet" href="{{ asset('assets/css/argon.css?v=1.2.0') }}" type="text/css">
@@ -49,25 +50,7 @@
                 </div>
             </div>
             </div>
-            <!-- Page content 
-            <style>
-                #pelota {
-                position: absolute;
-                animation: rebota 1.5s alternate infinite ease-out;
-                }
-
-                @-webkit-keyframes rebota {
-                0% {
-                    bottom: -120px;
-                    height: 100px;
-                    align: center;
-                }
-                100% {
-                    bottom: 100px;
-                    align: center;
-                }
-                }
-            </style> -->
+            <!-- Page content  -->
             <div class="container-fluid mt--6" style="background:#b8c2ff" >
             <div class="header-body">
                         <div class="col-xl-12"  >
@@ -115,13 +98,13 @@
                                                     <span class="h6 font-weight-bold text-yellow text-justify mb-0">Finalizado:</span>
                                                     <span class="h6 font-weight-bold text-yellow text-justify mb-0">Pierde Atlético Fénix por infracción al reglamento</span>
                                                     <button class="btn btn-icon btn-primary" type="button">
-                                                        <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
+                                                        <span class="btn-inner--icon"><i class="fas fa-images"></i></span>
                                                         <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1piW45UgXZg5RPpG3l7DavY3IuDCg0nUn?usp=sharing" target="_blank">Ver galería</a>
                                                     </button>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -139,13 +122,13 @@
                                                     <h4 class="card-title text-white text-uppercase mb-0">Vodka JRS - 3</h4>
                                                     <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
                                                     <button class="btn btn-icon btn-primary" type="button">
-                                                        <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
+                                                        <span class="btn-inner--icon"><i class="fas fa-images"></i></span>
                                                         <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1KPuZPE0rgl80iwEI139w17CkTFAZRYSn?usp=sharing" target="_blank">Ver galería</a>
                                                     </button>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -163,13 +146,13 @@
                                                     <h4 class="card-title text-white text-uppercase mb-0">Ing. Prado FC - 3</h3>
                                                     <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
                                                     <button class="btn btn-icon btn-primary" type="button">
-                                                        <span class="btn-inner--icon"><i class="ni ni-album-2"></i></span>
+                                                        <span class="btn-inner--icon"><i class="fas fa-images"></i></span>
                                                         <a class="h5 font-weight-bold text-white mb-0" href="https://drive.google.com/drive/folders/1kB9JjfJqVMWF4vp5F7P14Vgs09Aa34tD?usp=sharing" target="_blank">Ver galería</a>
                                                     </button>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape text-yellow rounded-circle shadow" style="background:#b0021f">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -187,7 +170,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -213,7 +196,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -234,7 +217,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -255,7 +238,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -273,7 +256,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -298,7 +281,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -319,7 +302,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -340,7 +323,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -358,7 +341,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -383,7 +366,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -404,7 +387,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -425,7 +408,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -443,7 +426,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -468,7 +451,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -489,7 +472,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -510,7 +493,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -528,7 +511,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -553,7 +536,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -574,7 +557,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -595,7 +578,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -613,7 +596,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -639,7 +622,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -660,7 +643,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -681,7 +664,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
@@ -699,7 +682,7 @@
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="ni ni-trophy"></i>
+                                                    <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
                                             </div>
