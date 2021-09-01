@@ -919,10 +919,10 @@
                                                 <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">1</span>
                                             </td>
                                             <td>
-                                                <span class="status">-2</span>
+                                                <span class="status">-1</span>
                                             </td>
                                          </tr>
                                         <tr>
