@@ -26,54 +26,6 @@
         <script> src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/3.5.1/chart.js" </script>
     </head>
     <body>
-                <!-- Loading CSS -->
-                <style>
-                    .loading {
-                        position: fixed;
-                        top: 0;
-                        left: 0;
-                        right: 0;
-                        bottom: 0;
-                        background: linear-gradient(rgb(17, 18, 17), rgb(161, 220, 153));
-                        display: flex;
-                        justify-content: center;
-                        align-items: center;
-                        z-index: 9999;
-                        transition: 6s;
-                        opacity: 0;
-                    }
-                    .loading.show {
-                        opacity: 1;
-                    }
-                    .loading .spin {
-                        border: 50px solid hsla(185, 30%, 62%, 0.2);
-                        border-top-color: #34944e;
-                        border-radius: 50%;
-                        width: 3em;
-                        height: 3em;
-                        animation: spin 1s linear;
-                    }
-                    @keyframes spin {
-                    to {
-                        transform: rotate(360deg);
-                    }
-                    }            
-                </style>
-
-                <!-- Loading HTML -->
-                <div class="loading show">
-                    <div class="spin"></div>
-                </div>
-
-                <!-- Loading Javascript -->
-                <script>
-                // Loading
-                var Loading=(loadingDelayHidden=0)=>{let loading=null;const myLoadingDelayHidden=loadingDelayHidden;let imgs=[];let lenImgs=0;let counterImgsLoading=0;function incrementCounterImgs(){counterImgsLoading+=1;if(counterImgsLoading===lenImgs){hideLoading()}}function hideLoading(){if(loading!==null){loading.classList.remove('show');setTimeout(function(){loading.remove()},myLoadingDelayHidden)}}function init(){document.addEventListener('DOMContentLoaded',function(){loading=document.querySelector('.loading');imgs=Array.from(document.images);lenImgs=imgs.length;if(imgs.length===0){hideLoading()}else{imgs.forEach(function(img){img.addEventListener('load',incrementCounterImgs,false)})}})}return{'init':init}}
-
-                Loading(10000).init();
-                </script>
-
-
         <!-- Main content -->
         <div class="main-content" id="panel">
             <!-- Carts -->
