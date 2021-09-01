@@ -160,16 +160,16 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                         <!-- Card body -->
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">DESCANSA</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">DESCANSA</h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">Natación FC</h3>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
