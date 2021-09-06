@@ -753,7 +753,7 @@
                                         </tr>
                                     </thead>
                                     <tbody class="list">
-                                    <tr>
+                                    <tr class="bg-success">
                                             <td class="budget">
                                                 1
                                             </td>
@@ -783,7 +783,7 @@
                                                 <span class="status">+3</span>
                                             </td>
                                          </tr>
-                                        <tr>
+                                        <tr class="bg-success">
                                             <td class="budget">
                                                 2
                                             </td>
@@ -813,7 +813,7 @@
                                                 <span class="status">+2</span>
                                             </td>
                                          </tr>
-                                        <tr>
+                                        <tr class="bg-success">
                                             <td class="budget">
                                                 3
                                             </td>
@@ -843,7 +843,7 @@
                                                 <span class="status">+1</span>
                                             </td>
                                         </tr>
-                                        <tr>
+                                        <tr class="bg-success">
                                             <td class="budget">
                                                 4
                                             </td>
@@ -971,6 +971,7 @@
                         <div class="row">
                                 <div class="col-xl-12">
                                     <h1 class="display-3 text-default" style="text-align:center">TABLA DE GOLEADORES</h1>
+									<h4 class="display-6 text-default" style="text-align:center">A partir de la jornada 3, solo se mostrarán los primeros lugares.</h4>
                                 </div>
                             </div>
                             <div class="table-responsive">
@@ -985,24 +986,14 @@
                                         </tr>
                                     </thead>
                                     <tbody class="list">
-                                        <tr>
-                                            <td class="budget">
-                                                1
-                                            </td>
-                                            <td>
-                                                <span class="status">Ricardo Palmerin</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">TENISTICOS FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
+                                        <tr class="bg-success">
+                                            <td class="budget">1</td>
+                                            <td><span class="status">Ricardo Palmerin</span></td>
+                                            <td><span class="status">TENISTICOS FC</span></td>
+                                            <td><span class="status">2</span></td>
                                          </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                1
-                                            </td>
+                                         <tr class="bg-success">
+                                         <td class="budget">1</td>
                                             <td>
                                                 <span class="status">Juan Heredia</span>
                                             </td>
@@ -1013,10 +1004,8 @@
                                                 <span class="status">2</span>
                                             </td>
                                          </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                1
-                                            </td>
+                                         <tr class="bg-success">
+                                         <td class="budget">1</td>
                                             <td>
                                                 <span class="status">Francisco Garibay</span>
                                             </td>
@@ -1027,10 +1016,8 @@
                                                 <span class="status">2</span>
                                             </td>
                                          </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                1
-                                            </td>
+                                         <tr class="bg-success">
+                                         <td class="budget">1</td>
                                             <td>
                                                 <span class="status">Arturo Herreros</span>
                                             </td>
@@ -1041,10 +1028,8 @@
                                                 <span class="status">2</span>
                                             </td>
                                          </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                1
-                                            </td>
+                                         <tr class="bg-success">
+                                         <td class="budget">1</td>
                                             <td>
                                                 <span class="status">Gregorio Ruiz</span>
                                             </td>
@@ -1055,10 +1040,8 @@
                                                 <span class="status">2</span>
                                             </td>
                                          </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                1
-                                            </td>
+                                         <tr class="bg-success">
+                                         <td class="budget">1</td>
                                             <td>
                                                 <span class="status">Daniel Aguilar</span>
                                             </td>
@@ -1209,6 +1192,7 @@
                                                 <span class="status">1</span>
                                             </td>
                                          </tr>
+									</tbody>
                                 </table>
                                 </div>
                             </div>
@@ -1232,83 +1216,42 @@
                                         </tr>
                                     </thead>
                                     <tbody class="list">
-                                        <tr>
-                                            <td class="budget">
-                                                1
-                                            </td>
-                                            <td>
-                                                <span class="status">TENISTICOS FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">7</span>
-                                            </td>
+                                        <tr class="bg-success">
+                                            <td class="budget">1</td>
+                                            <td><span class="status">TENISTICOS FC</span></td>
+                                            <td><span class="status">7</span></td>
                                          </tr>
                                          <tr>
-                                            <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">6</span>
-                                            </td>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">ING. PRADO FC</span></td>
+                                            <td><span class="status">6</span></td>
                                          </tr>
                                          <tr>
-                                            <td class="budget">
-                                                3
-                                            </td>
-                                            <td>
-                                                <span class="status">SEL. GUADALUPE</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">4</span>
-                                            </td>
+                                            <td class="budget">3</td>
+                                            <td><span class="status">SEL. GUADALUPE</span></td>
+                                            <td><span class="status">4</span></td>
                                          </tr>
                                          <tr>
-                                            <td class="budget">
-                                                4
-                                            </td>
-                                            <td>
-                                                <span class="status">VODKA JRS.</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">3</span>
-                                            </td>
+                                            <td class="budget">4</td>
+                                            <td><span class="status">VODKA JRS.</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
                                          <tr>
-                                            <td class="budget">
-                                                5
-                                            </td>
-                                            <td>
-                                                <span class="status">NATACIÓN FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
+                                            <td class="budget">5</td>
+                                            <td><span class="status">NATACIÓN FC</span></td>
+                                            <td><span class="status">1</span></td>
                                          </tr>
                                          <tr>
-                                            <td class="budget">
-                                                6
-                                            </td>
-                                            <td>
-                                                <span class="status">AMIGOS COUNTRY</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
+                                            <td class="budget"> </td>
+                                            <td><span class="status">AMIGOS COUNTRY</span></td>
+                                            <td><span class="status">1</span></td>
                                          </tr>
                                          <tr>
-                                            <td class="budget">
-                                                7
-                                            </td>
-                                            <td>
-                                                <span class="status">ATLÉTICO FÉNIX</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
+                                            <td class="budget">7</td>
+                                            <td><span class="status">ATLÉTICO FÉNIX</span></td>
+                                            <td> <span class="status">1</span></td>
                                          </tr>
+									</tbody>
                                 </table>
                                 </div>
                             </div>
@@ -1333,47 +1276,24 @@
                                     </thead>
                                     <tbody class="list">
                                         <tr>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Rodolfo Isai Aguilar</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Atlético Fénix</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Sin suspensión para jornada 2 por doble amarilla</span>
-                                            </td>
+                                            <td><span class="status">1</span></td>
+                                            <td><span class="status">Rodolfo Isai Aguilar</span></td>
+                                            <td><span class="status">Atlético Fénix</span></td>
+                                            <td><span class="status">Sin suspensión para jornada 2 por doble amarilla</span></td>
                                          </tr>
                                          <tr>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Jorge Humberto Fernández</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Sel.Guadalupe</span>
-                                            </td>
-                                            <td>
-                                                <span class="status"></span>
-                                            </td>
+                                            <td><span class="status">1</span></td>
+                                            <td><span class="status">Jorge Humberto Fernández</span></td>
+                                            <td><span class="status">Sel.Guadalupe</span></td>
+                                            <td><span class="status"></span></td>
                                          </tr>
                                          <tr>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Sergio Gaona</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Vodka Jrs.</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">Sin suspensión para jornada 2 por doble amarilla</span>
-                                            </td>
+                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">Sergio Gaona</span></td>
+                                            <td><span class="status">Vodka Jrs.</span> </td>
+                                            <td><span class="status">Sin suspensión para jornada 3 por doble amarilla</span></td>
                                          </tr>
+									</tbody>
                                 </table>
                                 </div>
                             </div>
@@ -1397,82 +1317,40 @@
                                         </tr>
                                     </thead>
                                     <tbody class="list">
-                                        <tr>
-                                            <td class="budget">
-                                                1
-                                            </td>
-                                            <td>
-                                                <span class="status">AMIGOS COUNTRY</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">0</span>
-                                            </td>
+                                        <tr class="bg-success">
+                                            <td class="budget">1</td>
+                                            <td><span class="status">AMIGOS COUNTRY</span></td>
+                                            <td><span class="status">0</span></td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">ATLÉTICO FÉNIX</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
+                                         <td class="budget">2</td>
+                                            <td><span class="status">ATLÉTICO FÉNIX</span></td>
+                                            <td><span class="status">1</span></td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                3
-                                            </td>
-                                            <td>
-                                                <span class="status">NATACIÓN FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">3</span>
-                                            </td>
+                                         <td class="budget">3</td>
+                                            <td><span class="status">NATACIÓN FC</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                4
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">3</span>
-                                            </td>
+                                         <td class="budget">4</td>
+                                            <td><span class="status">ING. PRADO FC</span></td>
+                                            <td><span class="status">3</span></td>
                                         </tr>
                                          <tr>
-                                         <td class="budget">
-                                                5
-                                            </td>
-                                            <td>
-                                                <span class="status">SEL. GUADALUPE</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">4</span>
-                                            </td>
+                                         <td class="budget">5</td>
+                                            <td><span class="status">SEL. GUADALUPE</span></td>
+                                            <td><span class="status">4</span></td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                6
-                                            </td>
-                                            <td>
-                                                <span class="status">TENISTICOS FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">5</span>
-                                            </td>
+                                         <td class="budget">6</td>
+                                            <td><span class="status">TENISTICOS FC</span></td>
+                                            <td><span class="status">5</span></td>
                                          </tr>
                                          <tr>
-                                         <td class="budget">
-                                                7
-                                            </td>
-                                            <td>
-                                                <span class="status">VODKA JRS.</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">7</span>
-                                            </td>
+                                         <td class="budget">7</td>
+                                            <td><span class="status">VODKA JRS.</span></td>
+                                            <td><span class="status">7</span></td>
                                          </tr>
                                 </table>
                                 </div>
