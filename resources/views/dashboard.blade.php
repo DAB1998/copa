@@ -996,12 +996,12 @@
                                                 <span class="status">TENISTICOS FC</span>
                                             </td>
                                             <td>
-                                                <span class="status">3</span>
+                                                <span class="status">2</span>
                                             </td>
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                2
+                                                1
                                             </td>
                                             <td>
                                                 <span class="status">Juan Heredia</span>
@@ -1015,7 +1015,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                2
+                                                1
                                             </td>
                                             <td>
                                                 <span class="status">Francisco Garibay</span>
@@ -1029,7 +1029,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                2
+                                                1
                                             </td>
                                             <td>
                                                 <span class="status">Arturo Herreros</span>
@@ -1043,7 +1043,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                2
+                                                1
                                             </td>
                                             <td>
                                                 <span class="status">Gregorio Ruiz</span>
@@ -1057,7 +1057,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                2
+                                                1
                                             </td>
                                             <td>
                                                 <span class="status">Daniel Aguilar</span>
@@ -1071,7 +1071,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Alexis Herreros</span>
@@ -1085,7 +1085,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Gerardo Color</span>
@@ -1099,7 +1099,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Valentín Cervantes</span>
@@ -1113,7 +1113,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">José Rodríguez</span>
@@ -1127,7 +1127,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Oscar Tovar</span>
@@ -1141,7 +1141,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Vladimir Vázquez</span>
@@ -1155,7 +1155,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Hugo Aguilera</span>
@@ -1169,7 +1169,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Joel Calderón</span>
@@ -1183,7 +1183,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Alain Infante</span>
@@ -1197,7 +1197,7 @@
                                          </tr>
                                          <tr>
                                          <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <td>
                                                 <span class="status">Octavio Sánchez</span>
