@@ -646,19 +646,18 @@
                         <div class="tab-pane fade show active" id="tabs-icons-text-3" role="tabpanel" aria-labelledby="tabs-icons-text-3-tab">
                             <div class="row">
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 11 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Tenisticos FC - 1</h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">VS </h3>
+                                                    <h4 class="card-title text-green text-uppercase mb-0">Atlético Fénix - 3</h4>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">Oficial</p>
+                                                    <p class="h6 text-yellow font-weight-bold mb-0">Finalizado</p>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
@@ -667,20 +666,19 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                         <!-- Card body -->
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 11 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Natación FC - 2</h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">VS </h4>
+                                                    <h4 class="card-title text-green text-uppercase mb-0">Sel. Guadalupe - 3</h4>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">Oficial</p>
+                                                    <p class="h6 text-yellow font-weight-bold mb-0">Finalizado</p>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
@@ -689,20 +687,19 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                         <!-- Card body -->
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 12 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
+                                                    <h4 class="card-title text-green text-uppercase mb-0">Amigos Country - 5</h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">VS </h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Ing. Prado FC - 4</h4>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">Oficial</p>
+                                                    <p class="h6 text-yellow font-weight-bold mb-0">Finalizado</p>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
@@ -711,20 +708,19 @@
                                     </div>
                                 </div>
                                 <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
+                                    <div class="card card-stats bg-danger">
                                         <!-- Card body -->
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Periodistas FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">AMISTOSO</p>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 12 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
+                                                    <h4 class="card-title text-uppercase text-green mb-0">Vodka Jrs. - 2 P(2)</h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">VS </h4>
+                                                    <h4 class="card-title text-white text-uppercase mb-0">Periodistas - 2 P(0)</h4>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">AMISTOSO</p>
+                                                    <p class="h6 text-yellow font-weight-bold mb-0">Finalizado</p>
                                                 </div>
                                                 <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
                                                     <i class="fas fa-trophy"></i>
                                                 </div>
                                                 </div>
@@ -803,54 +799,24 @@
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">3</span>
                                             </td>
                                             <td>
                                                 <span class="status">6 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">6</span>
+                                                <span class="status">10</span>
                                             </td>
                                             <td>
-                                                <span class="status">3</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">+3</span>
-                                            </td>
-                                         </tr>
-                                        <tr class="bg-success">
-                                            <td class="budget">
-                                                2
-                                            </td>
-                                            <th scope="row">
-                                                <div class="media align-items-center">
-                                                    <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/tenis.jpg">
-                                                    </a>
-                                                    <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Tenisticos FC</span>
-                                                    </div>
-                                                </div>
-                                            </th>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">3 pts</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">7</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">5</span>
+                                                <span class="status">8</span>
                                             </td>
                                             <td>
                                                 <span class="status">+2</span>
                                             </td>
                                          </tr>
-                                        <tr class="bg-success">
+										 <tr class="bg-success">
                                             <td class="budget">
-                                                3
+                                                2
                                             </td>
                                             <th scope="row">
                                                 <div class="media align-items-center">
@@ -863,22 +829,52 @@
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">1</span>
+                                                <span class="status">2</span>
                                             </td>
                                             <td>
-                                                <span class="status">3 pts</span>
+                                                <span class="status">6 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">1</span>
+                                                <span class="status">6</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">4</span>
                                             </td>
                                             <td>
-                                                <span class="status">+1</span>
+                                                <span class="status">+2</span>
                                             </td>
                                         </tr>
-                                        <tr class="bg-success">
+										<tr class="bg-success">
+                                            <td class="budget">
+                                                3
+                                            </td>
+                                            <th scope="row">
+                                                <div class="media align-items-center">
+                                                    <a href="#" class="avatar rounded-circle mr-3">
+                                                        <img alt="Image placeholder" src="../../assets/img/fenix.jpg">
+                                                    </a>
+                                                    <div class="media-body">
+                                                        <span class="name mb-0 text-sm">Atlético Fénix</span>
+                                                    </div>
+                                                </div>
+                                            </th>
+                                            <td>
+                                                <span class="status">3</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">6 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">4</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">2</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">+2</span>
+                                            </td>
+                                         </tr>
+										<tr class="bg-success">
                                             <td class="budget">
                                                 4
                                             </td>
@@ -893,46 +889,46 @@
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">3</span>
                                             </td>
                                             <td>
-                                                <span class="status">3 pts</span>
+                                                <span class="status">6 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">4</span>
+                                                <span class="status">7</span>
                                             </td>
                                             <td>
-                                                <span class="status">4</span>
+                                                <span class="status">6</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">+1</span>
                                             </td>
                                          </tr>
-                                         <tr>
+                                        <tr>
                                             <td class="budget">
                                                 5
                                             </td>
                                             <th scope="row">
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/fenix.jpg">
+                                                        <img alt="Image placeholder" src="../../assets/img/tenis.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Atlético Fénix</span>
+                                                        <span class="name mb-0 text-sm">Tenisticos FC</span>
                                                     </div>
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">3</span>
                                             </td>
                                             <td>
                                                 <span class="status">3 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">1</span>
+                                                <span class="status">8</span>
                                             </td>
                                             <td>
-                                                <span class="status">1</span>
+                                                <span class="status">8</span>
                                             </td>
                                             <td>
                                                 <span class="status">0</span>
@@ -953,19 +949,19 @@
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">1</span>
+                                                <span class="status">2</span>
                                             </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                            <td>
                                                 <span class="status">3</span>
                                             </td>
                                             <td>
-                                                <span class="status">-2</span>
+                                                <span class="status">6</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">-3</span>
                                             </td>
                                          </tr>
                                         <tr>
@@ -1023,210 +1019,64 @@
                                     <tbody class="list">
                                         <tr class="bg-success">
                                             <td class="budget">1</td>
+                                            <td><span class="status">Valentin Cervantes</span></td>
+                                            <td><span class="status">Ing. Prado fc</span></td>
+                                            <td><span class="status">3</span></td>
+                                         </tr>
+										 <tr>
+                                            <td class="budget">2</td>
                                             <td><span class="status">Ricardo Palmerin</span></td>
-                                            <td><span class="status">TENISTICOS FC</span></td>
+                                            <td><span class="status">Tenisticos fc</span></td>
                                             <td><span class="status">2</span></td>
                                          </tr>
-                                         <tr class="bg-success">
-                                         <td class="budget">1</td>
-                                            <td>
-                                                <span class="status">Juan Heredia</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">TENISTICOS FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
+										<tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Juan Heredia</span></td>
+                                            <td><span class="status">Tenisticos fc</span></td>
+                                            <td><span class="status">2</span></td>
+                                         </tr>	
+										 <tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Francisco Garibay</span></td>
+                                            <td><span class="status">Tenisticos fc</span></td>
+                                            <td><span class="status">2</span></td>
+                                         </tr>	
+										 <tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Arturo Herreros</span></td>
+                                            <td><span class="status">Vodka Jrs.</span></td>
+                                            <td><span class="status">2</span></td>
                                          </tr>
-                                         <tr class="bg-success">
-                                         <td class="budget">1</td>
-                                            <td>
-                                                <span class="status">Francisco Garibay</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">TENISTICOS FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
+										<tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Gregorio Ruíz</span></td>
+                                            <td><span class="status">Sel. Guadalupe</span></td>
+                                            <td><span class="status">2</span></td>
                                          </tr>
-                                         <tr class="bg-success">
-                                         <td class="budget">1</td>
-                                            <td>
-                                                <span class="status">Arturo Herreros</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">VODKA JRS.</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
+										<tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Jorge Férnandez</span></td>
+                                            <td><span class="status">Sel. Guadalupe</span></td>
+                                            <td><span class="status">2</span></td>
                                          </tr>
-                                         <tr class="bg-success">
-                                         <td class="budget">1</td>
-                                            <td>
-                                                <span class="status">Gregorio Ruiz</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">SEL. GUADALUPE</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
+										<tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Daniel Aguilar</span></td>
+                                            <td><span class="status">Ing. Prado fc</span></td>
+                                            <td><span class="status">2</span></td>
                                          </tr>
-                                         <tr class="bg-success">
-                                         <td class="budget">1</td>
-                                            <td>
-                                                <span class="status">Daniel Aguilar</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Alexis Herreros</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">VODKA JRS.</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Gerardo Color</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">TENISTICOS FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Valentín Cervantes</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">José Rodríguez</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Oscar Tovar</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">SEL. GUADALUPE</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Vladimir Vázquez</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Hugo Aguilera</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">ING. PRADO FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Joel Calderón</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">NATACIÓN FC</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Alain Infante</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">ATLÉTICO FÉNIX</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">
-                                                2
-                                            </td>
-                                            <td>
-                                                <span class="status">Octavio Sánchez</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">SEL. GUADALUPE</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">1</span>
-                                            </td>
-                                         </tr>
+										<tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">José Rodríguez</span></td>
+                                            <td><span class="status">Ing. Prado fc</span></td>
+                                            <td><span class="status">2</span></td>
+                                         </tr>	
+										 <tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Jorge López</span></td>
+                                            <td><span class="status">Amigos Country</span></td>
+                                            <td><span class="status">2</span></td>
+                                         </tr>	
 									</tbody>
                                 </table>
                                 </div>
@@ -1253,38 +1103,38 @@
                                     <tbody class="list">
                                         <tr class="bg-success">
                                             <td class="budget">1</td>
-                                            <td><span class="status">TENISTICOS FC</span></td>
-                                            <td><span class="status">7</span></td>
+                                            <td><span class="status">Ing. Prado fc</span></td>
+                                            <td><span class="status">10</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">2</td>
-                                            <td><span class="status">ING. PRADO FC</span></td>
-                                            <td><span class="status">6</span></td>
+                                            <td><span class="status">Tenisticos fc</span></td>
+                                            <td><span class="status">8</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">3</td>
-                                            <td><span class="status">SEL. GUADALUPE</span></td>
-                                            <td><span class="status">4</span></td>
+                                            <td><span class="status">Sel. Guadalupe</span></td>
+                                            <td><span class="status">7</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">4</td>
-                                            <td><span class="status">VODKA JRS.</span></td>
-                                            <td><span class="status">3</span></td>
+                                            <td><span class="status">Amigos Country</span></td>
+                                            <td><span class="status">5</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">5</td>
-                                            <td><span class="status">NATACIÓN FC</span></td>
-                                            <td><span class="status">1</span></td>
+                                            <td><span class="status">Atlético Fénix</span></td>
+                                            <td><span class="status">4</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget"> </td>
-                                            <td><span class="status">AMIGOS COUNTRY</span></td>
-                                            <td><span class="status">1</span></td>
+                                            <td><span class="status">Natación fc</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">7</td>
-                                            <td><span class="status">ATLÉTICO FÉNIX</span></td>
-                                            <td> <span class="status">1</span></td>
+                                            <td><span class="status">Vodka jrs.</span></td>
+                                            <td> <span class="status">3</span></td>
                                          </tr>
 									</tbody>
                                 </table>
@@ -1354,38 +1204,38 @@
                                     <tbody class="list">
                                         <tr class="bg-success">
                                             <td class="budget">1</td>
-                                            <td><span class="status">AMIGOS COUNTRY</span></td>
-                                            <td><span class="status">0</span></td>
+                                            <td><span class="status">Atlético Fénix</span></td>
+                                            <td><span class="status">2</span></td>
                                          </tr>
                                          <tr>
                                          <td class="budget">2</td>
-                                            <td><span class="status">ATLÉTICO FÉNIX</span></td>
-                                            <td><span class="status">1</span></td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">3</td>
-                                            <td><span class="status">NATACIÓN FC</span></td>
-                                            <td><span class="status">3</span></td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">4</td>
-                                            <td><span class="status">ING. PRADO FC</span></td>
-                                            <td><span class="status">3</span></td>
-                                        </tr>
-                                         <tr>
-                                         <td class="budget">5</td>
-                                            <td><span class="status">SEL. GUADALUPE</span></td>
+                                            <td><span class="status">Amigos Country</span></td>
                                             <td><span class="status">4</span></td>
                                          </tr>
                                          <tr>
+                                         <td class="budget">3</td>
+                                            <td><span class="status">Natación fc</span></td>
+                                            <td><span class="status">6</span></td>
+                                         </tr>
+                                         <tr>
+                                         <td class="budget">4</td>
+                                            <td><span class="status">Sel. Guadalupe</span></td>
+                                            <td><span class="status">6</span></td>
+                                        </tr>
+                                         <tr>
+                                         <td class="budget">5</td>
+                                            <td><span class="status">Vodka Jrs.</span></td>
+                                            <td><span class="status">7</span></td>
+                                         </tr>
+                                         <tr>
                                          <td class="budget">6</td>
-                                            <td><span class="status">TENISTICOS FC</span></td>
-                                            <td><span class="status">5</span></td>
+                                            <td><span class="status">Tenisticos fc</span></td>
+                                            <td><span class="status">8</span></td>
                                          </tr>
                                          <tr>
                                          <td class="budget">7</td>
-                                            <td><span class="status">VODKA JRS.</span></td>
-                                            <td><span class="status">7</span></td>
+                                            <td><span class="status">Ing. Prado fc</span></td>
+                                            <td><span class="status">8</span></td>
                                          </tr>
                                 </table>
                                 </div>
