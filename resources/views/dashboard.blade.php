@@ -29,7 +29,6 @@
     <body>
         <!-- Main content -->
         <div class="main-content" id="panel">
-            <!-- Carts -->
             <div class="header pb-8 bg-default" style="background:#34944e">
             <div class="container-fluid">
                 <div class="header-body">
@@ -728,11 +727,19 @@
                                         </div>
                                     </div>
                                 </div>
+							</div>
+							<div class="row" style="justify-content: center; align-items: center">
+								<div class="col-xl-4">
+                                    <button class="btn btn-icon btn-primary" type="button">
+										<span class="btn-inner--icon"><i class="fas fa-crown text-green"></i></span>
+										<a class="h5 font-weight-bold text-white mb-0" href="https://www.onlineencuesta.com/s/d09671f" target="_blank">Vota por el jugador de la jornada</a>
+									</button>
+                                </div>
                                 </div>
                             </div>
+						</div>
                         </div>
                     </div>
-                </div>
             </div>
                 <div class="row">
                     <div class="col-xl-12">
@@ -1002,7 +1009,6 @@
                         <div class="row">
                                 <div class="col-xl-12">
                                     <h1 class="display-3 text-default" style="text-align:center">TABLA DE GOLEADORES</h1>
-									<h4 class="display-6 text-default" style="text-align:center">A partir de la jornada 3, solo se mostrarán los primeros lugares.</h4>
                                 </div>
                             </div>
                             <div class="table-responsive">
@@ -1245,12 +1251,14 @@
                 </div>
             </div>
 <!-- Carousel wrapper -->
-
-
-            </div>    
-            
+            </div>     
         <!-- Argon Scripts -->
         <!-- Core -->
+		<script>
+		$(document).ready(function(){
+			$("#Modal").modal("show");
+		 });
+		</script>
         <script src="{{ asset('assets/vendor/jquery/dist/jquery.min.js') }}"></script>
         <script src="{{ asset('assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js') }}"></script>
         <script src="{{ asset('assets/vendor/js-cookie/js.cookie.js') }}"></script>
