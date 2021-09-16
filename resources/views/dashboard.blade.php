@@ -65,10 +65,10 @@
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-2-tab" data-toggle="tab" href="#tabs-icons-text-2" role="tab" aria-controls="tabs-icons-text-2" aria-selected="false">Jornada 2</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-3" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 3</a>
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-3" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 3</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-4" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 4</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-4" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 4</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-5" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 5</a>
@@ -273,7 +273,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="tabs-icons-text-4" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="tab-pane fade show active" id="tabs-icons-text-4" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats"  style="background:#bae3c5">
@@ -642,7 +642,7 @@
                             </div>
 
                             
-                        <div class="tab-pane fade show active" id="tabs-icons-text-3" role="tabpanel" aria-labelledby="tabs-icons-text-3-tab">
+                        <div class="tab-pane fade" id="tabs-icons-text-3" role="tabpanel" aria-labelledby="tabs-icons-text-3-tab">
                             <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats bg-danger">
@@ -732,7 +732,7 @@
 								<div class="col-xl-4">
                                     <button class="btn btn-icon btn-primary" type="button">
 										<span class="btn-inner--icon"><i class="fas fa-crown text-green"></i></span>
-										<a class="h5 font-weight-bold text-white mb-0" href="https://www.onlineencuesta.com/s/d09671f" target="_blank">Vota por el jugador de la jornada</a>
+										<a class="h5 font-weight-bold text-white mb-0" target="_blank">Vota por el jugador de la jornada</a>
 									</button>
                                 </div>
                                 </div>
