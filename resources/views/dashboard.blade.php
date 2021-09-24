@@ -68,16 +68,13 @@
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-3" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 3</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-4" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 4</a>
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-4" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 4</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-5" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 5</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-5" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 5</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-6" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 6</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-7" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 7</a>
                     </li>
                 </ul>
                 </div>
@@ -273,18 +270,106 @@
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade show active" id="tabs-icons-text-4" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="tab-pane fade show" id="tabs-icons-text-4" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                                <div class="row">
+                                <div class="col-xl-3">
+                                    <div class="card card-stats bg-danger">
+                                    <div class="card-body">
+                                    <div class="row">
+                                        <div class="col">
+                                                    <h3 class="card-title text-uppercase text-white mb-0">Amigos Country</h3>
+                                                    <h3 class="card-title text-uppercase text-white mb-0">VS </h3>
+                                                    <h3 class="card-title text-uppercase text-white mb-0">Sel. Guadalupe</h3>
+													<p class="h6 font-weight-bold text-yellow mb-0">Oficial</p>
+                                                    <span class="h6 text-yellow font-weight-bold mb-0">Partido suspendido</span>
+                                                </div>
+                                                <div class="col-auto">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
+                                                    <i class="fas fa-trophy"></i>
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-3">
+                                    <div class="card card-stats bg-danger">
+                                        <!-- Card body -->
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col">
+                                                    <h3 class="card-title text-white text-uppercase mb-0">Tenisticos FC - 3</h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">Natación FC - 3</h3>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">Oficial</p>
+                                                    <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
+                                                </div>
+                                                <div class="col-auto">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
+                                                    <i class="fas fa-trophy"></i>
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-3">
+                                    <div class="card card-stats bg-danger">
+                                        <!-- Card body -->
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col">
+                                                    <h3 class="card-title text-white text-uppercase mb-0">Vodka Jrs. - 3</h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title text-success text-uppercase mb-0">Ing. Prado FC - 5</h3>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">Oficial</p>
+                                                    <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
+                                                </div>
+                                                <div class="col-auto">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
+                                                    <i class="fas fa-trophy"></i>
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-3">
+                                    <div class="card card-stats bg-danger">
+                                        <!-- Card body -->
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col">
+                                                    <h3 class="card-title text-success text-uppercase mb-0">Atlético Fénix - 8</h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title text-white text-uppercase mb-0">Periodistas FC - 4</h3>
+                                                    <p class="h6 font-weight-bold text-yellow mb-0">Amistoso</p>
+                                                    <span class="h6 text-yellow font-weight-bold mb-0">Finalizado</span>
+                                                </div>
+                                                <div class="col-auto">
+                                                <div class="icon icon-shape  text-yellow rounded-circle shadow" style="background:#b0021f">
+                                                    <i class="fas fa-trophy"></i>
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+
+                            <div class="tab-pane fade show active" id="tabs-icons-text-5" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats"  style="background:#bae3c5">
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
                                                     <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 18 de septiembre 2021</p>
+                                                    <p class="h6 font-weight-bold mb-0">Sábado 25 de septiembre 2021</p>
                                                     <p class="h5 font-weight-bold mb-0">9:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
@@ -304,100 +389,8 @@
                                                 <div class="col">
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 19 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
-                                                </div>
-                                                <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="fas fa-trophy"></i>
-                                                </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
-                                        <!-- Card body -->
-                                        <div class="card-body">
-                                            <div class="row">
-                                                <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 19 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
-                                                </div>
-                                                <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="fas fa-trophy"></i>
-                                                </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
-                                        <!-- Card body -->
-                                        <div class="card-body">
-                                            <div class="row">
-                                                <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Periodistas FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">AMISTOSO</p>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 18 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
-                                                </div>
-                                                <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="fas fa-trophy"></i>
-                                                </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                </div>
-                            </div>
-
-                            <div class="tab-pane fade" id="tabs-icons-text-5" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
-                                <div class="row">
-                                <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
-                                    <div class="card-body">
-                                    <div class="row">
-                                        <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 25 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
-                                                </div>
-                                                <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="fas fa-trophy"></i>
-                                                </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
-                                        <!-- Card body -->
-                                        <div class="card-body">
-                                            <div class="row">
-                                                <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
+                                                    <p class="h6 font-weight-bold text-danger mb-0">Amistoso</p>
                                                     <p class="h6 font-weight-bold mb-0">Sábado 25 de septiembre 2021</p>
                                                     <p class="h5 font-weight-bold mb-0">10:30 am</p>
                                                 </div>
@@ -416,34 +409,12 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
                                                     <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
                                                     <p class="h6 font-weight-bold mb-0">Domingo 26 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
-                                                </div>
-                                                <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="fas fa-trophy"></i>
-                                                </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
-                                        <!-- Card body -->
-                                        <div class="card-body">
-                                            <div class="row">
-                                                <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">TENISTICOS FC</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Periodistas FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">AMISTOSO</p>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 26 de septiembre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
+                                                    <p class="h5 font-weight-bold mb-0">10:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -457,17 +428,17 @@
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade" id="tabs-icons-text-6" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="tab-pane fade show" id="tabs-icons-text-6" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats"  style="background:#bae3c5">
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Sel. Guadalupe</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Periodistas FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
+                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
+                                                    <p class="h6 font-weight-bold text-danger mb-0">Amistoso</p>
                                                     <p class="h6 font-weight-bold mb-0">Sábado 2 de octubre 2021</p>
                                                     <p class="h5 font-weight-bold mb-0">9:00 am</p>
                                                 </div>
@@ -488,10 +459,10 @@
                                                 <div class="col">
                                                     <h3 class="card-title text-uppercase mb-0">Tenisticos FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Amigos Country</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
                                                     <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 3 de octubre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
+                                                    <p class="h6 font-weight-bold mb-0">Sábado 2 de octubre 2021</p>
+                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -508,34 +479,12 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
                                                     <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
                                                     <p class="h6 font-weight-bold mb-0">Domingo 3 de octubre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
-                                                </div>
-                                                <div class="col-auto">
-                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
-                                                    <i class="fas fa-trophy"></i>
-                                                </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-xl-3">
-                                    <div class="card card-stats"  style="background:#bae3c5">
-                                        <!-- Card body -->
-                                        <div class="card-body">
-                                            <div class="row">
-                                                <div class="col">
-                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC.</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Periodistas FC</h3>
-                                                    <p class="h6 font-weight-bold text-danger mb-0">AMISTOSO</p>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 2 de Octubre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
+                                                    <p class="h5 font-weight-bold mb-0">10:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -641,8 +590,7 @@
                                 </div>
                             </div>
 
-                            
-                        <div class="tab-pane fade" id="tabs-icons-text-3" role="tabpanel" aria-labelledby="tabs-icons-text-3-tab">
+							<div class="tab-pane fade" id="tabs-icons-text-3" role="tabpanel" aria-labelledby="tabs-icons-text-3-tab">
                             <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats bg-danger">
@@ -806,19 +754,19 @@
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">3</span>
+                                                <span class="status">4</span>
                                             </td>
                                             <td>
-                                                <span class="status">6 pts</span>
+                                                <span class="status">9 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">10</span>
+                                                <span class="status">15</span>
                                             </td>
                                             <td>
-                                                <span class="status">8</span>
+                                                <span class="status">11</span>
                                             </td>
                                             <td>
-                                                <span class="status">+2</span>
+                                                <span class="status">+4</span>
                                             </td>
                                          </tr>
 										 <tr class="bg-success">
@@ -829,36 +777,6 @@
                                                 <div class="media align-items-center">
                                                     <a href="#" class="avatar rounded-circle mr-3">
                                                         <img alt="Image placeholder" src="../../assets/img/amigos.jpg">
-                                                    </a>
-                                                    <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Amigos Country</span>
-                                                    </div>
-                                                </div>
-                                            </th>
-                                            <td>
-                                                <span class="status">2</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">6 pts</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">6</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">4</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">+2</span>
-                                            </td>
-                                        </tr>
-										<tr class="bg-success">
-                                            <td class="budget">
-                                                3
-                                            </td>
-                                            <th scope="row">
-                                                <div class="media align-items-center">
-                                                    <a href="#" class="avatar rounded-circle mr-3">
-                                                        <img alt="Image placeholder" src="../../assets/img/fenix.jpg">
                                                     </a>
                                                     <div class="media-body">
                                                         <span class="name mb-0 text-sm">Atlético Fénix</span>
@@ -880,6 +798,36 @@
                                             <td>
                                                 <span class="status">+2</span>
                                             </td>
+                                        </tr>
+										<tr class="bg-success">
+                                            <td class="budget">
+                                                3
+                                            </td>
+                                            <th scope="row">
+                                                <div class="media align-items-center">
+                                                    <a href="#" class="avatar rounded-circle mr-3">
+                                                        <img alt="Image placeholder" src="../../assets/img/fenix.jpg">
+                                                    </a>
+                                                    <div class="media-body">
+                                                        <span class="name mb-0 text-sm">Tenisticos</span>
+                                                    </div>
+                                                </div>
+                                            </th>
+                                            <td>
+                                                <span class="status">4</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">4 pts</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">11</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">11</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">0</span>
+                                            </td>
                                          </tr>
 										<tr class="bg-success">
                                             <td class="budget">
@@ -891,7 +839,7 @@
                                                         <img alt="Image placeholder" src="../../assets/img/sel.png">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Sel. Guadalupe</span>
+                                                        <span class="name mb-0 text-sm">Natación FC</span>
                                                     </div>
                                                 </div>
                                             </th>
@@ -899,16 +847,16 @@
                                                 <span class="status">3</span>
                                             </td>
                                             <td>
-                                                <span class="status">6 pts</span>
-                                            </td>
-                                            <td>
-                                                <span class="status">7</span>
+                                                <span class="status">1 pts</span>
                                             </td>
                                             <td>
                                                 <span class="status">6</span>
                                             </td>
                                             <td>
-                                                <span class="status">+1</span>
+                                                <span class="status">9</span>
+                                            </td>
+                                            <td>
+                                                <span class="status">-3</span>
                                             </td>
                                          </tr>
                                         <tr>
@@ -921,7 +869,7 @@
                                                         <img alt="Image placeholder" src="../../assets/img/tenis.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Tenisticos FC</span>
+                                                        <span class="name mb-0 text-sm">Vodka Jrs</span>
                                                     </div>
                                                 </div>
                                             </th>
@@ -929,16 +877,16 @@
                                                 <span class="status">3</span>
                                             </td>
                                             <td>
-                                                <span class="status">3 pts</span>
+                                                <span class="status">0 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">8</span>
+                                                <span class="status">6</span>
                                             </td>
                                             <td>
-                                                <span class="status">8</span>
+                                                <span class="status">12</span>
                                             </td>
                                             <td>
-                                                <span class="status">0</span>
+                                                <span class="status">-6</span>
                                             </td>
                                          </tr>
                                          <tr>
@@ -951,24 +899,24 @@
                                                         <img alt="Image placeholder" src="../../assets/img/natacion.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Natación FC</span>
+                                                        <span class="name mb-0 text-sm">Sel. Guadalupe</span>
                                                     </div>
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">0</span>
                                             </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">3</span>
+                                                <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">6</span>
+                                                <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">-3</span>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                         <tr>
@@ -981,24 +929,24 @@
                                                         <img alt="Image placeholder" src="../../assets/img/índice.jpg">
                                                     </a>
                                                     <div class="media-body">
-                                                        <span class="name mb-0 text-sm">Vodka Juniors</span>
+                                                        <span class="name mb-0 text-sm">Amigos Country</span>
                                                     </div>
                                                 </div>
                                             </th>
                                             <td>
-                                                <span class="status">2</span>
+                                                <span class="status">0</span>
                                             </td>
                                             <td>
                                                 <span class="status">0 pts</span>
                                             </td>
                                             <td>
-                                                <span class="status">3</span>
+                                                <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">7</span>
+                                                <span class="status">0</span>
                                             </td>
                                             <td>
-                                                <span class="status">-4</span>
+                                                <span class="status">0</span>
                                             </td>
                                          </tr>
                                 </table>
@@ -1027,61 +975,49 @@
                                             <td class="budget">1</td>
                                             <td><span class="status">Valentin Cervantes</span></td>
                                             <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">3</span></td>
+                                            <td><span class="status">5</span></td>
                                          </tr>
 										 <tr>
                                             <td class="budget">2</td>
-                                            <td><span class="status">Ricardo Palmerin</span></td>
+                                            <td><span class="status">Juan Heredia</span></td>
                                             <td><span class="status">Tenisticos fc</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
 										<tr>
                                             <td class="budget">2</td>
-                                            <td><span class="status">Juan Heredia</span></td>
-                                            <td><span class="status">Tenisticos fc</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">Daniel Aguilar</span></td>
+                                            <td><span class="status">Ing. Prado FC</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>	
 										 <tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Francisco Garibay</span></td>
                                             <td><span class="status">Tenisticos fc</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>	
 										 <tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Arturo Herreros</span></td>
                                             <td><span class="status">Vodka Jrs.</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
 										<tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Gregorio Ruíz</span></td>
                                             <td><span class="status">Sel. Guadalupe</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
 										<tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Jorge Férnandez</span></td>
                                             <td><span class="status">Sel. Guadalupe</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>
-										<tr>
-                                            <td class="budget">2</td>
-                                            <td><span class="status">Daniel Aguilar</span></td>
-                                            <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">2</span></td>
-                                         </tr>
-										<tr>
-                                            <td class="budget">2</td>
-                                            <td><span class="status">José Rodríguez</span></td>
-                                            <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">2</span></td>
-                                         </tr>	
 										 <tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Jorge López</span></td>
                                             <td><span class="status">Amigos Country</span></td>
-                                            <td><span class="status">2</span></td>
+                                            <td><span class="status">3</span></td>
                                          </tr>	
 									</tbody>
                                 </table>
