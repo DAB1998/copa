@@ -71,10 +71,10 @@
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-4" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 4</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-5" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 5</a>
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-5" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 5</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-6" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 6</a>
+                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-6" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 6</a>
                     </li>
                 </ul>
                 </div>
@@ -358,7 +358,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade show active" id="tabs-icons-text-5" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="tab-pane fade show" id="tabs-icons-text-5" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats bg-danger">
@@ -425,7 +425,7 @@
                                 </div>
                             </div>
 
-                            <div class="tab-pane fade show" id="tabs-icons-text-6" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                            <div class="tab-pane fade show active" id="tabs-icons-text-6" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats"  style="background:#bae3c5">
@@ -434,10 +434,10 @@
                                         <div class="col">
                                                     <h3 class="card-title text-uppercase mb-0">Periodistas FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Vodka Jrs.</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
                                                     <p class="h6 font-weight-bold text-danger mb-0">Amistoso</p>
                                                     <p class="h6 font-weight-bold mb-0">Sábado 2 de octubre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">9:00 am</p>
+                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
@@ -459,7 +459,7 @@
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
                                                     <p class="h6 font-weight-bold text-danger mb-0">Oficial</p>
                                                     <p class="h6 font-weight-bold mb-0">Sábado 2 de octubre 2021</p>
-                                                    <p class="h5 font-weight-bold mb-0">10:30 am</p>
+                                                    <p class="h5 font-weight-bold mb-0">09:00 am</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#34944e">
