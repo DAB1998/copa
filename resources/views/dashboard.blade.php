@@ -435,12 +435,13 @@
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-													<h3 class="card-title text-uppercase mb-0">PARTIDO DE IDA</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
+													<h3 class="card-title text-uppercase mb-0">VUELTA</h3>
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 10 de Octubre</p>
-													<span class="h6 font-weight-bold mb-0">10:00 am</span>
+                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
+                                                    <p class="h6 font-weight-bold mb-0">Sábado 16 de Octubre</p>
+													<p class="h6 font-weight-bold mb-0">11:30 am</p>
+													<p class="h6 font-weight-bold mb-0">GLOBAL: 3 - 3</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#10a75d">
@@ -457,12 +458,13 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-													<h3 class="card-title  text-uppercase mb-0">PARTIDO DE IDA</h3>
-                                                    <h3 class="card-title  text-uppercase mb-0">Tenisticos FC</h3>
-                                                    <h3 class="card-title  text-uppercase mb-0">VS </h3>
+													<h3 class="card-title  text-uppercase mb-0">VUELTA</h3>
                                                     <h3 class="card-title  text-uppercase mb-0">Natación FC</h3>
-                                                    <p class="h6 font-weight-bold mb-0">Domingo 10 de Octubre</p>
-													<span class="h6 font-weight-bold mb-0">11:30 am</span>
+                                                    <h3 class="card-title  text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title  text-uppercase mb-0">Tenisticos FC</h3>
+                                                    <p class="h6 font-weight-bold mb-0">Sábado 16 de Octubre</p>
+													<p class="h6 font-weight-bold mb-0">10:00 am</p>
+													<p class="h6 font-weight-bold mb-0">GLOBAL: 4 - 0</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#10a75d">
@@ -1020,43 +1022,19 @@
                                             <td class="budget">1</td>
                                             <td><span class="status">Juan Pablo Lara</span></td>
                                             <td><span class="status">Natación FC</span></td>
-                                            <td><span class="status">6</span></td>
+                                            <td><span class="status">7</span></td>
                                          </tr>
-										 <tr class="bg-success">
-                                            <td class="budget">1</td>
+										 <tr>
+                                            <td class="budget">2</td>
                                             <td><span class="status">Francisco Garibay</span></td>
                                             <td><span class="status">Tenisticos FC</span></td>
                                             <td><span class="status">6</span></td>
                                          </tr>
 										<tr>
-                                            <td class="budget">2</td>
+                                            <td class="budget">3</td>
                                             <td><span class="status">Valentin Cervantes</span></td>
                                             <td><span class="status">Ing. Prado FC</span></td>
-                                            <td><span class="status">5</span></td>
-                                         </tr>	
-										 <tr>
-                                            <td class="budget">3</td>
-                                            <td><span class="status">Gilberto Cervantes</span></td>
-                                            <td><span class="status">Ing. Prado FC</span></td>
-                                            <td><span class="status">4</span></td>
-                                         </tr>
-										<tr>
-                                            <td class="budget">3</td>
-                                            <td><span class="status">Gregorio Ruiz</span></td>
-                                            <td><span class="status">Natación FC</span></td>
-                                            <td><span class="status">4</span></td>
-                                         </tr>	
-										 <tr>
-                                            <td class="budget">3</td>
-                                            <td><span class="status">Arturo Herreros</span></td>
-                                            <td><span class="status">Vidka Jrs.</span></td>
-                                            <td><span class="status">4</span></td>
-                                         </tr>	
-										 <tr>
-                                            <td class="budget">3</td>
-                                            <td><span class="status">Daniel Aguilar</span></td>
-                                            <td><span class="status">Ing. Prado FC</span></td>
-                                            <td><span class="status">4</span></td>
+                                            <td><span class="status">6</span></td>
                                          </tr>	
 									</tbody>
                                 </table>
@@ -1085,27 +1063,27 @@
                                         <tr class="bg-success">
                                             <td class="budget">1</td>
                                             <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">25</span></td>
+                                            <td><span class="status">28</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Natación fc</span></td>
-                                            <td><span class="status">18</span></td>
+                                            <td><span class="status">22</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">3</td>
                                             <td><span class="status">Tenisticos fc</span></td>
                                             <td><span class="status">16</span></td>
                                          </tr>
-                                         <tr>
+										 <tr>
                                             <td class="budget">4</td>
-                                            <td><span class="status">Vodka Jrs.</span></td>
-                                            <td><span class="status">12</span></td>
+                                            <td><span class="status">Atlético Fénix</span></td>
+                                            <td><span class="status">13</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">5</td>
-                                            <td><span class="status">Atlético Fénix</span></td>
-                                            <td><span class="status">10</span></td>
+                                            <td><span class="status">Vodka Jrs.</span></td>
+                                            <td><span class="status">12</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">6</td>
@@ -1183,20 +1161,20 @@
                                         </tr>
                                     </thead>
                                     <tbody class="list">
-                                        <tr class="bg-success">
-                                            <td class="budget">1</td>
-                                            <td><span class="status">Atlético Fénix</span></td>
-                                            <td><span class="status">13</span></td>
-                                         </tr>
-                                         <tr class="bg-success">
-                                         <td class="budget">2</td>
+										<tr class="bg-success">
+                                         <td class="budget">1</td>
                                             <td><span class="status">Natación fc</span></td>
                                             <td><span class="status">13</span></td>
+                                        </tr>
+                                        <tr>
+                                            <td class="budget">2</td>
+                                            <td><span class="status">Atlético Fénix</span></td>
+                                            <td><span class="status">16</span></td>
                                          </tr>
                                          <tr>
                                          <td class="budget">3</td>
                                             <td><span class="status">Tenisticos fc</span></td>
-                                            <td><span class="status">14</span></td>
+                                            <td><span class="status">18</span></td>
                                          </tr>
                                          <tr>
                                          <td class="budget">4</td>
@@ -1206,7 +1184,7 @@
                                          <tr>
                                          <td class="budget">5</td>
                                             <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">20</span></td>
+                                            <td><span class="status">23</span></td>
                                          </tr>
                                          <tr>
                                          <td class="budget">6</td>
