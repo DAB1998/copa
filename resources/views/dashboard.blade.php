@@ -76,8 +76,11 @@
                     <li class="nav-item">
                         <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-6" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Jornada 6</a>
                     </li>
-					 <li class="nav-item">
-                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-S" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Semifinales</a>
+					<li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-S" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Semifinales</a>
+                    </li>
+					<li class="nav-item">
+                        <a class="nav-link mb-sm-3 mb-md-0 active" id="tabs-icons-text-3-tab" data-toggle="tab" href="#tabs-icons-text-FT" role="tab" aria-controls="tabs-icons-text-3" aria-selected="false">Final y Tercer lugar</a>
                     </li>
                 </ul>
                 </div>
@@ -428,20 +431,17 @@
                                 </div>
                             </div>
 							
-							 <div class="tab-pane fade show active" id="tabs-icons-text-S" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+							 <div class="tab-pane fade show" id="tabs-icons-text-S" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
                                 <div class="row">
 								<div class="col-xl-3">
                                     <div class="card card-stats" style="background:#DAF7A6">
                                     <div class="card-body">
                                     <div class="row">
                                         <div class="col">
-													<h3 class="card-title text-uppercase mb-0">VUELTA</h3>
                                                     <h3 class="card-title text-uppercase mb-0">Ing. Prado FC</h3>
                                                     <h3 class="card-title text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 16 de Octubre</p>
-													<p class="h6 font-weight-bold mb-0">11:30 am</p>
-													<p class="h6 font-weight-bold mb-0">GLOBAL: 3 - 3</p>
+													<p class="h6 font-weight-bold mb-0">GLOBAL: 7 - 5</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#10a75d">
@@ -458,13 +458,58 @@
                                         <div class="card-body">
                                             <div class="row">
                                                 <div class="col">
-													<h3 class="card-title  text-uppercase mb-0">VUELTA</h3>
                                                     <h3 class="card-title  text-uppercase mb-0">Natación FC</h3>
                                                     <h3 class="card-title  text-uppercase mb-0">VS </h3>
                                                     <h3 class="card-title  text-uppercase mb-0">Tenisticos FC</h3>
-                                                    <p class="h6 font-weight-bold mb-0">Sábado 16 de Octubre</p>
+													<p class="h6 font-weight-bold mb-0">GLOBAL: 6 - 1</p>
+                                                </div>
+                                                <div class="col-auto">
+                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#10a75d">
+                                                    <i class="fas fa-trophy"></i>
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
+                            </div>
+							
+							<div class="tab-pane fade show active" id="tabs-icons-text-FT" role="tabpanel" aria-labelledby="tabs-icons-text-2-tab">
+                                <div class="row">
+								<div class="col-xl-3">
+                                    <div class="card card-stats" style="background:#DAF7A6">
+                                    <div class="card-body">
+                                    <div class="row">
+                                        <div class="col">
+													<h3 class="card-title text-uppercase mb-0">Final</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Natación FC</h3>
+                                                    <h3 class="card-title text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title text-uppercase mb-0">Atlético Fénix</h3>
+                                                    <p class="h6 font-weight-bold mb-0">Domingo 31 de Octubre</p>
+													<p class="h6 font-weight-bold mb-0">11:30 am</p>
+                                                </div>
+                                                <div class="col-auto">
+                                                <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#10a75d">
+                                                    <i class="fas fa-trophy"></i>
+                                                </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-xl-3">
+                                    <div class="card card-stats" style="background:#DAF7A6">
+                                        <!-- Card body -->
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col">
+													<h3 class="card-title  text-uppercase mb-0">Tercer lugar</h3>
+                                                    <h3 class="card-title  text-uppercase mb-0">Ing. Prado FC</h3>
+                                                    <h3 class="card-title  text-uppercase mb-0">VS </h3>
+                                                    <h3 class="card-title  text-uppercase mb-0">Tenisticos FC</h3>
+                                                    <p class="h6 font-weight-bold mb-0">Domingo 31 de Octubre</p>
 													<p class="h6 font-weight-bold mb-0">10:00 am</p>
-													<p class="h6 font-weight-bold mb-0">GLOBAL: 4 - 0</p>
                                                 </div>
                                                 <div class="col-auto">
                                                 <div class="icon icon-shape  text-white rounded-circle shadow" style="background:#10a75d">
@@ -638,6 +683,7 @@
                             </div>
 
 							<div class="tab-pane fade" id="tabs-icons-text-3" role="tabpanel" aria-labelledby="tabs-icons-text-3-tab">
+							
                             <div class="row">
                                 <div class="col-xl-3">
                                     <div class="card card-stats bg-danger">
@@ -1022,10 +1068,16 @@
                                             <td class="budget">1</td>
                                             <td><span class="status">Juan Pablo Lara</span></td>
                                             <td><span class="status">Natación FC</span></td>
-                                            <td><span class="status">7</span></td>
+                                            <td><span class="status">8</span></td>
                                          </tr>
 										 <tr>
                                             <td class="budget">2</td>
+                                            <td><span class="status">Oscar Tovar</span></td>
+                                            <td><span class="status">Atlético Fénix</span></td>
+                                            <td><span class="status">7</span></td>
+                                         </tr>
+										 <tr>
+                                            <td class="budget">3</td>
                                             <td><span class="status">Francisco Garibay</span></td>
                                             <td><span class="status">Tenisticos FC</span></td>
                                             <td><span class="status">6</span></td>
@@ -1036,6 +1088,12 @@
                                             <td><span class="status">Ing. Prado FC</span></td>
                                             <td><span class="status">6</span></td>
                                          </tr>	
+										 <tr>
+                                            <td class="budget">3</td>
+                                            <td><span class="status">Victor González</span></td>
+                                            <td><span class="status">Ing. Prado FC</span></td>
+                                            <td><span class="status">6</span></td>
+                                         </tr>
 									</tbody>
                                 </table>
                                 </div>
@@ -1063,22 +1121,22 @@
                                         <tr class="bg-success">
                                             <td class="budget">1</td>
                                             <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">28</span></td>
+                                            <td><span class="status">30</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Natación fc</span></td>
-                                            <td><span class="status">22</span></td>
+                                            <td><span class="status">24</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">3</td>
                                             <td><span class="status">Tenisticos fc</span></td>
-                                            <td><span class="status">16</span></td>
+                                            <td><span class="status">17</span></td>
                                          </tr>
 										 <tr>
                                             <td class="budget">4</td>
                                             <td><span class="status">Atlético Fénix</span></td>
-                                            <td><span class="status">13</span></td>
+                                            <td><span class="status">17</span></td>
                                          </tr>
                                          <tr>
                                             <td class="budget">5</td>
@@ -1164,27 +1222,27 @@
 										<tr class="bg-success">
                                          <td class="budget">1</td>
                                             <td><span class="status">Natación fc</span></td>
-                                            <td><span class="status">13</span></td>
+                                            <td><span class="status">14</span></td>
                                         </tr>
                                         <tr>
                                             <td class="budget">2</td>
                                             <td><span class="status">Atlético Fénix</span></td>
-                                            <td><span class="status">16</span></td>
-                                         </tr>
-                                         <tr>
-                                         <td class="budget">3</td>
-                                            <td><span class="status">Tenisticos fc</span></td>
                                             <td><span class="status">18</span></td>
                                          </tr>
-                                         <tr>
-                                         <td class="budget">4</td>
+										 <tr>
+                                         <td class="budget">3</td>
                                             <td><span class="status">Vodka Jrs.</span></td>
                                             <td><span class="status">19</span></td>
-                                        </tr>
+										 </tr>
+                                         <tr>
+                                         <td class="budget">4</td>
+                                            <td><span class="status">Tenisticos fc</span></td>
+                                            <td><span class="status">20</span></td>
+                                         </tr>
                                          <tr>
                                          <td class="budget">5</td>
                                             <td><span class="status">Ing. Prado fc</span></td>
-                                            <td><span class="status">23</span></td>
+                                            <td><span class="status">27</span></td>
                                          </tr>
                                          <tr>
                                          <td class="budget">6</td>
